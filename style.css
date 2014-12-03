@@ -1,0 +1,66 @@
+.wrapper{
+	width: 900px;	
+	margin: 0 auto;
+}
+
+.header{
+	background-color: #141a2e;
+    color: white;
+    padding: 5px;
+}
+
+h1{
+	margin-left: 20px
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	float: left;
+	display: block;
+	background-color: #b6bee4;
+	width: 25%;
+	text-align: center;
+	padding: 5px 0px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	color: #3e446e;
+	text-transform: uppercase;
+}
+
+.text{
+	margin-top: 50px;
+	padding: 20px;
+}
+
+.left{
+	float: left;
+	width: 47%;
+}
+
+.right{
+	float: left;
+	width: 47%;
+}
+
+.jack{
+	width: 850px;
+}
+
+.jeff{
+	width: 355px;
+}
+
+.ted{
+	width: 850px;
+}
